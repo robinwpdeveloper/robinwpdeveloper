@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @robinwpdeveloper
-- 👀 I’m interested in movies
-- 🌱 I’m currently learning plugin development
-- 💞️ I’m looking to collaborate on wordpress plugins
 - 📫 Tweet me at @nhr_rob
 
 <!---
